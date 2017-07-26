@@ -8,3 +8,6 @@ preview = "textures/shared_space_src"
 [suffix]
 source = "_up"
 preview = "_p"
+
+[format]
+downscale = true
