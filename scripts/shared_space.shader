@@ -15,7 +15,7 @@
 
 textures/shared_space/sky01
 {
-	qer_editorimage env/shared_space_src/sky01_up
+	qer_editorImage env/shared_space_src/sky01_up
 
 	q3map_skylight 300 4
 
@@ -28,7 +28,7 @@ textures/shared_space/sky01
 
 textures/shared_space/sky02
 {
-	qer_editorimage env/shared_space_src/sky02_up
+	qer_editorImage env/shared_space_src/sky02_up
 
 	q3map_skylight 300 4
 
@@ -41,7 +41,7 @@ textures/shared_space/sky02
 
 textures/shared_space/sky03
 {
-	qer_editorimage env/shared_space_src/sky03_up
+	qer_editorImage env/shared_space_src/sky03_up
 
 	q3map_skylight 300 4
 
@@ -54,7 +54,7 @@ textures/shared_space/sky03
 
 textures/shared_space/sky04
 {
-	qer_editorimage env/shared_space_src/sky04_up
+	qer_editorImage env/shared_space_src/sky04_up
 
 	q3map_skylight 300 4
 
@@ -67,7 +67,7 @@ textures/shared_space/sky04
 
 textures/shared_space/sky05
 {
-	qer_editorimage env/shared_space_src/sky05_up
+	qer_editorImage env/shared_space_src/sky05_up
 
 	q3map_skylight 300 4
 
@@ -80,7 +80,7 @@ textures/shared_space/sky05
 
 textures/shared_space/sky06
 {
-	qer_editorimage env/shared_space_src/sky06_up
+	qer_editorImage env/shared_space_src/sky06_up
 
 	q3map_skylight 300 4
 
@@ -93,7 +93,7 @@ textures/shared_space/sky06
 
 textures/shared_space/sky07
 {
-	qer_editorimage env/shared_space_src/sky07_up
+	qer_editorImage env/shared_space_src/sky07_up
 
 	q3map_skylight 300 4
 
@@ -106,7 +106,7 @@ textures/shared_space/sky07
 
 textures/shared_space/sky08
 {
-	qer_editorimage env/shared_space_src/sky08_up
+	qer_editorImage env/shared_space_src/sky08_up
 
 	q3map_skylight 300 4
 
@@ -119,7 +119,7 @@ textures/shared_space/sky08
 
 textures/shared_space/sky09
 {
-	qer_editorimage env/shared_space_src/sky09_up
+	qer_editorImage env/shared_space_src/sky09_up
 
 	q3map_skylight 300 4
 
@@ -132,7 +132,7 @@ textures/shared_space/sky09
 
 textures/shared_space/sky10
 {
-	qer_editorimage env/shared_space_src/sky10_up
+	qer_editorImage env/shared_space_src/sky10_up
 
 	q3map_skylight 300 4
 
@@ -145,7 +145,7 @@ textures/shared_space/sky10
 
 textures/shared_space/sky11
 {
-	qer_editorimage env/shared_space_src/sky11_up
+	qer_editorImage env/shared_space_src/sky11_up
 
 	q3map_skylight 300 4
 
@@ -158,7 +158,7 @@ textures/shared_space/sky11
 
 textures/shared_space/sky12
 {
-	qer_editorimage env/shared_space_src/sky12_up
+	qer_editorImage env/shared_space_src/sky12_up
 
 	q3map_skylight 300 4
 
@@ -171,7 +171,7 @@ textures/shared_space/sky12
 
 textures/shared_space/sky13
 {
-	qer_editorimage env/shared_space_src/sky13_up
+	qer_editorImage env/shared_space_src/sky13_up
 
 	q3map_skylight 300 4
 
@@ -184,7 +184,7 @@ textures/shared_space/sky13
 
 textures/shared_space/sky14
 {
-	qer_editorimage env/shared_space_src/sky14_up
+	qer_editorImage env/shared_space_src/sky14_up
 
 	q3map_skylight 300 4
 
@@ -197,7 +197,7 @@ textures/shared_space/sky14
 
 textures/shared_space/sky15
 {
-	qer_editorimage env/shared_space_src/sky15_up
+	qer_editorImage env/shared_space_src/sky15_up
 
 	q3map_skylight 300 4
 
@@ -210,7 +210,7 @@ textures/shared_space/sky15
 
 textures/shared_space/sky16
 {
-	qer_editorimage env/shared_space_src/sky16_up
+	qer_editorImage env/shared_space_src/sky16_up
 
 	q3map_skylight 300 4
 
@@ -223,7 +223,7 @@ textures/shared_space/sky16
 
 textures/shared_space/sky17
 {
-	qer_editorimage env/shared_space_src/sky17_up
+	qer_editorImage env/shared_space_src/sky17_up
 
 	q3map_skylight 300 4
 
@@ -236,7 +236,7 @@ textures/shared_space/sky17
 
 textures/shared_space/sky18
 {
-	qer_editorimage env/shared_space_src/sky18_up
+	qer_editorImage env/shared_space_src/sky18_up
 
 	q3map_skylight 300 4
 
@@ -249,7 +249,7 @@ textures/shared_space/sky18
 
 textures/shared_space/sky19
 {
-	qer_editorimage env/shared_space_src/sky19_up
+	qer_editorImage env/shared_space_src/sky19_up
 
 	q3map_skylight 300 4
 
@@ -262,7 +262,7 @@ textures/shared_space/sky19
 
 textures/shared_space/sky20
 {
-	qer_editorimage env/shared_space_src/sky20_up
+	qer_editorImage env/shared_space_src/sky20_up
 
 	q3map_skylight 300 4
 
@@ -275,7 +275,7 @@ textures/shared_space/sky20
 
 textures/shared_space/sky21
 {
-	qer_editorimage env/shared_space_src/sky21_up
+	qer_editorImage env/shared_space_src/sky21_up
 
 	q3map_skylight 300 4
 
@@ -288,7 +288,7 @@ textures/shared_space/sky21
 
 textures/shared_space/sky22
 {
-	qer_editorimage env/shared_space_src/sky22_up
+	qer_editorImage env/shared_space_src/sky22_up
 
 	q3map_skylight 300 4
 
@@ -301,7 +301,7 @@ textures/shared_space/sky22
 
 textures/shared_space/sky23
 {
-	qer_editorimage env/shared_space_src/sky23_up
+	qer_editorImage env/shared_space_src/sky23_up
 
 	q3map_skylight 300 4
 
@@ -314,7 +314,7 @@ textures/shared_space/sky23
 
 textures/shared_space/sky24
 {
-	qer_editorimage env/shared_space_src/sky24_up
+	qer_editorImage env/shared_space_src/sky24_up
 
 	q3map_skylight 300 4
 
@@ -327,7 +327,7 @@ textures/shared_space/sky24
 
 textures/shared_space/sky25
 {
-	qer_editorimage env/shared_space_src/sky25_up
+	qer_editorImage env/shared_space_src/sky25_up
 
 	q3map_skylight 300 4
 
@@ -340,7 +340,7 @@ textures/shared_space/sky25
 
 textures/shared_space/sky26
 {
-	qer_editorimage env/shared_space_src/sky26_up
+	qer_editorImage env/shared_space_src/sky26_up
 
 	q3map_skylight 300 4
 
@@ -353,7 +353,7 @@ textures/shared_space/sky26
 
 textures/shared_space/sky27
 {
-	qer_editorimage env/shared_space_src/sky27_up
+	qer_editorImage env/shared_space_src/sky27_up
 
 	q3map_skylight 300 4
 
@@ -366,7 +366,7 @@ textures/shared_space/sky27
 
 textures/shared_space/sky28
 {
-	qer_editorimage env/shared_space_src/sky28_up
+	qer_editorImage env/shared_space_src/sky28_up
 
 	q3map_skylight 300 4
 
@@ -379,7 +379,7 @@ textures/shared_space/sky28
 
 textures/shared_space/sky29
 {
-	qer_editorimage env/shared_space_src/sky29_up
+	qer_editorImage env/shared_space_src/sky29_up
 
 	q3map_skylight 300 4
 
@@ -392,7 +392,7 @@ textures/shared_space/sky29
 
 textures/shared_space/sky30
 {
-	qer_editorimage env/shared_space_src/sky30_up
+	qer_editorImage env/shared_space_src/sky30_up
 
 	q3map_skylight 300 4
 
