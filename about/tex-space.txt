@@ -1,23 +1,22 @@
 env/shared_space_src/*
 textures/shared_space_src/*
 
-    Author
+	Author
 
-        Stijn 'Ingar' Buys <ingar@osirion.org> (http://osirion.org/)
+		Stijn 'Ingar' Buys <ingar@osirion.org> (http://osirion.org/)
 
-    License
+	License
 
-        If you redestribute this files can do so under the terms and conditions
-        of either the CREATIVE COMMONS ATTRIBUTION-SHARE ALIKE 3.0 LICENSE or
-        the GENERAL PUBLIC LICENSE, version 2.
+		If you redestribute this files can do so under the terms and conditions
+		of either the CREATIVE COMMONS ATTRIBUTION-SHARE ALIKE 3.0 LICENSE or
+		the GENERAL PUBLIC LICENSE, version 2.
 
-        Please refer to the following documents  for more information about
-        these licenses.
+		Please refer to the following documents  for more information about
+		these licenses.
 
-        http://creativecommons.org/licenses/by-sa/3.0/
-        http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+		http://creativecommons.org/licenses/by-sa/3.0/
+		http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
-    Source
+	Source
 
-        http://osirion.org/files/env-osirion-sky.zip
-
+		http://osirion.org/files/env-osirion-sky.zip
